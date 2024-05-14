@@ -1,0 +1,1 @@
+export const unavailableMenu = [/\/[0-9]+\/edit/,/\/[0-9]+$/,"/add","/edit", "/admit",  "/show"]
